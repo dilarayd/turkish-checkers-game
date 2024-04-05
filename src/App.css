@@ -1,0 +1,5 @@
+.App{
+    display: grid;
+    place-content: center;
+    background-color: #202020;
+}
